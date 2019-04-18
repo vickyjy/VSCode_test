@@ -1,0 +1,11 @@
+/home/jy/HelloWorld2/VSCode_test/bin/Debug/netcoreapp2.2/VSCode_test.deps.json
+/home/jy/HelloWorld2/VSCode_test/bin/Debug/netcoreapp2.2/VSCode_test.runtimeconfig.json
+/home/jy/HelloWorld2/VSCode_test/bin/Debug/netcoreapp2.2/VSCode_test.runtimeconfig.dev.json
+/home/jy/HelloWorld2/VSCode_test/bin/Debug/netcoreapp2.2/VSCode_test.dll
+/home/jy/HelloWorld2/VSCode_test/bin/Debug/netcoreapp2.2/VSCode_test.pdb
+/home/jy/HelloWorld2/VSCode_test/obj/Debug/netcoreapp2.2/VSCode_test.csprojAssemblyReference.cache
+/home/jy/HelloWorld2/VSCode_test/obj/Debug/netcoreapp2.2/VSCode_test.csproj.CoreCompileInputs.cache
+/home/jy/HelloWorld2/VSCode_test/obj/Debug/netcoreapp2.2/VSCode_test.AssemblyInfoInputs.cache
+/home/jy/HelloWorld2/VSCode_test/obj/Debug/netcoreapp2.2/VSCode_test.AssemblyInfo.cs
+/home/jy/HelloWorld2/VSCode_test/obj/Debug/netcoreapp2.2/VSCode_test.dll
+/home/jy/HelloWorld2/VSCode_test/obj/Debug/netcoreapp2.2/VSCode_test.pdb
